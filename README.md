@@ -1,4 +1,4 @@
-![GitHub Stats GIF - Blue](https://media-hosting.imagekit.io//79950f063a534620/github-bg-blue-optimized.gif?Expires=1835728818&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vfb8ok18-~zDmJUwCR31UdmRv58jd6MBNsfIEk2uVPXF2Fwbvgdtaxmo5CG~EBRzVctnvvoVY1Cr6qUoqb4mJoKGvba6ddTFpZob4PGu~PFmvT2ZeCR8HTb1ah0YCO9Jk3qgw9-uwqZPeuEp5HvafCSwg2YDea36Dt9TZfXOO3-bK9nR-GgTi9~00K~n1~fmvC~eKK0OYAW2AKBY2yqjxMofG7J8ySkZ3f3fDicivMMIW7Q5NPUO7cbnEo0hugZa6jn1kbbzPOvGJ2DA~CGf5~77fBSadcrXkLZ6AfTWB5B4wpymXSw3ZIab9MZQaNujaBMJLzEODlHwi93ZuL9PJw__)
+![GitHub Banner](https://media-hosting.imagekit.io//39593892332b4c21/github-bg-text.png?Expires=1835729927&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Aja19RxyNSJ95rTgyy9CDbuT0~3U6jqMgceIR4ZAyK3ENsKbSc1NS7-B1gVN3IbSEXcZhyrXmDvF4jXINmCXAKIrpNuLkYTluiDa1pP9hCVw6KhSjPmTks23WgDsTiqVhRQBp7qvHdUtc-NrysVjwkpsmXWMgH4W1oKQPWBYVNUwQveQKGICRlB8NjFBVewSFDJ0kAohkixlWLFWsl84Fchm4NXDYhyqriQh0ornCNQOXE2Aau9yJNLS9sfXfG5ecm~MRT-AKZYhvdGROGLJE0CltqrXorOpnbN0o5GVJwld1Rr6TUPnao2NrtFTNBOVZfXvkXI7t3d396kPpcJz-w__)
 
 
 # 💫 About Me:
