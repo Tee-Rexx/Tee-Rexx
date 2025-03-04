@@ -32,6 +32,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Tee-Rexx&icon=2&color=9)](https://visitcount.itsvg.in)
-
 ![Dino](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
