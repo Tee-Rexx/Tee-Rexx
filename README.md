@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Expert Full Stack Developer | MEAN | MERN | PHP | Laravel<br><br>   
-👯 I’m looking to collaborate on **web and mobile app development projects**<br><br>  
-💬 Ask me about **Angular, TypeScript, Tailwind CSS, React.js, Next.js, .NET Core, PHP, and Laravel**<br><br>  
+🚀 Expert Full Stack Developer | MEAN | MERN | PHP | Laravel<br>
+👯 I’m looking to collaborate on **web and mobile app development projects**<br>
+💬 Ask me about **Angular, TypeScript, Tailwind CSS, React.js, Next.js, .NET Core, PHP, and Laravel**<br> 
 
 
 # 💻 Tech Stack:
