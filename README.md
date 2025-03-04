@@ -1,3 +1,6 @@
+![Tech Stack GIF](https://media-hosting.imagekit.io//3cf9ed70a4ea4a8a/slow-bg-blue-text-ezgif.com-crop.gif?Expires=1835728279&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=atgmN9Z7eS6Zt-Ra29aRpRbyJC6g3iuay4JfwbqCPsl2mBDBiX1H1zjcmabwpJ2bkMnEjaygc00G-eG8QnqOJ9To26c1jQg3fDfc568rUyAELkibceE2iqFUkeQNm2LONBZUyuH1yULRiMoAFCY5MuqAWNn41upVpmIvmfgjFD6pb-nU~h5u-hDYixFSdPHtxtDu0JFrvuaPs0gD74-nB8Uc7xeCrPiPnfl3ExiPVw2bDhA~xOVC-LvBgdnAGkxv29g9MvwOQi2H9Gk0V37FpflIAyZ~3Elw-Nm8cwM2yr~XEOo3iSD3l2~RGYoT3rnT2wqFPd3V68m9tsTn2Qh6WQ__)
+
+
 # 💫 About Me:
 🚀 **Expert Full Stack Developer** | MEAN | MERN | PHP | Laravel  
 🎯 Passionate about building **scalable, high-performance** web & mobile applications  
